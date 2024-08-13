@@ -1,0 +1,14 @@
+h1{
+    color: black;
+}
+p{
+    color: firebrick;
+    font-size: 20;
+    text-align: justify;
+    padding: 15%;
+}
+.imagens{
+    width: 220px;
+    height: 270px;
+    
+}
